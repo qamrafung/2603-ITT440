@@ -40,8 +40,8 @@ The hypothesis of this project is that the SpaceX REST API can handle moderate u
 scripts/       -> Contains k6 testing scripts
 screenshots/   -> Contains test result screenshots
 results/       -> Contains raw output files
-
 ```
+---
 
 ## Load Test
 
