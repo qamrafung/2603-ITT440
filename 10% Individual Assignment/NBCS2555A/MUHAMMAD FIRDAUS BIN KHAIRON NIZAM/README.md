@@ -114,7 +114,7 @@ All tests were executed using JMeter in non-GUI (command-line) mode to maximize 
       ./jmeter -n -t /Users/void/Documents/ITT440/Individual\ Assignment/Blazedemotest.jmx -l /Users/void/Documents/ITT440/Individual\    
        Assignment/StressTestV3.csv  -e -o /Users/void/Documents/ITT440/Individual\ Assignment/StressTestV3
   
-* Spike Test <br/>
+* Endurance Test <br/>
 
 
        bash
@@ -208,7 +208,7 @@ Bottlenecks were identified by analyzing which steps in the user journey exhibit
 | Throughput | 7.77 txn/s |
 
 
-## 3.3 Spike Test Results with Analysis
+## 3.3 Endurance Test Results with Analysis
 
 <img width="1187" height="339" alt="image" src="https://github.com/user-attachments/assets/39b46550-1a79-42dc-9125-d85c9c966675" />
 
